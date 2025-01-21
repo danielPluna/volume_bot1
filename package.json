@@ -1,0 +1,17 @@
+{
+    "dependencies": {
+        "@stellar/stellar-sdk": "^13.1.0",
+        "soroban-client": "^1.0.1"
+    },
+    "type": "module",
+    "name": "volume_bot1",
+    "version": "1.0.0",
+    "main": "current_balances.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
